@@ -1,0 +1,8 @@
+{
+  "name": "meu-projeto-ci",
+  "version": "1.0.0",
+  "description": "Projeto de exemplo para aprender CI",
+  "scripts": {
+    "test": "node test.js"
+  }
+}
